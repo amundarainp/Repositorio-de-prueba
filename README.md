@@ -1,2 +1,2 @@
-# Repositorio-de-prueba
-Repositorio de prueba del módulo 2
+Proyecto de como crear un repositorio y clonarlo en nuestra pc
+Vamos!!!
